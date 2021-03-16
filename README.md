@@ -1,6 +1,13 @@
 # PT3-E002-Excel-BI-Pub-Templates
 Excel Templates for BI Pub in PeopleTools
 
+These are all the objects used in our YouTube demo
+
+Blog Post:  https://peopletoolstechtips.com/using-excel-templates-with-bi-publisher/
+Youtube:  https://youtu.be/fzMFzKpTbqU
+
+
+
 PeopleTools Tech Tips    
 Randy Groncki	2020-09-25
 BI Publisher Excel Templates              
